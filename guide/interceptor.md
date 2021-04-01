@@ -63,7 +63,7 @@
 </bean>
 ```
 
-### spring-boot
+### spring
 ``` java
 @Configuration
 @MapperScan("scan.your.mapper.package")
